@@ -1,0 +1,11 @@
+{
+    "name": "vercel-python-telegram-bot",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "vercel dev",
+        "deploy": "vercel --prod"
+    },
+    "devDependencies": {
+        "vercel": "^32.0.0"
+    }
+}
